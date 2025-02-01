@@ -1,15 +1,5 @@
 # joellerudolph.github.io
 
-{css, echo=FALSE}
-.link-style1 a {
-  color: blue;
-  text-decoration: underline;
-}
-
-.link-style2 a {
- color: blue;
-}
-
 
 ## Education
 ### USC
@@ -21,5 +11,5 @@
 
 
 ## Contact
-E-mail: .link-style1[[joellecrudolph@gmail.com](mailto:joellecrudolph@gmail.com)]
-Connect on LinkedIn: .link-style2[[LinkedIn]([https://en.wikipedia.org/wiki/Main_Page](https://www.linkedin.com/in/joellerudolph/))]
+E-mail: [[joellecrudolph@gmail.com](mailto:joellecrudolph@gmail.com)]
+Connect on LinkedIn: [[LinkedIn]([https://en.wikipedia.org/wiki/Main_Page](https://www.linkedin.com/in/joellerudolph/))]
